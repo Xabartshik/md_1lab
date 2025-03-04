@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// Сделал проект: Ошлаков Данил, ИВТ-22
 void main() {
   runApp(const MyApp());
 }
